@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Conservancy app"
+rootProject.name = "greenvoiceapp"
 include(":app")
+ 
